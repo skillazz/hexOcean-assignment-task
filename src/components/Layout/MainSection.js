@@ -1,13 +1,13 @@
-import {Box, Container, Typography} from "@mui/material";
-import HexagonIcon from '@mui/icons-material/Hexagon';
+import {Container} from "@mui/material";
+import Dishes from "../Dishes/Dishes";
 
 
 
 const MainSection = () => {
 
     return (
-        <Container maxWidth='100vw' sx={{height: '15rem', backgroundColor: '#1976d2'}}>
-                <Typography variant="body2" color="white">Placeholder</Typography>
+        <Container maxWidth='100vw' sx={{height: '15rem'}}>
+                <Dishes/>
         </Container>
 
     )
