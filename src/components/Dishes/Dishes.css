@@ -1,0 +1,28 @@
+input {
+    font: inherit;
+    letter-spacing: inherit;
+    padding: 4px 0 5px;
+    border: 1px solid darkgrey;
+    border-radius: 5px;
+    box-sizing: content-box;
+    background: none;
+    height: 1.4375em;
+    margin-top: 0.6rem;
+    display: block;
+    min-width: 0;
+    width: 200px;
+    padding: 16.5px 14px;
+}
+
+input:focus {
+    outline-color: #1976d2;
+}
+input:hover {
+    cursor: pointer;
+}
+
+label {
+    font-size: small;
+    color: dimgrey;
+}
+
