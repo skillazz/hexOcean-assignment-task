@@ -1,3 +1,8 @@
+### Live preview:
+
+http://hexoceantask.s3-website.eu-central-1.amazonaws.com/
+
+
 ### Installation guide:
 
 Type in your terminal:
